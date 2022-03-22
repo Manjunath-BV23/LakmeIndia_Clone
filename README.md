@@ -3,8 +3,7 @@ This is clone of Lakme.com, Where we have used HTML, CSS and Advance Javascript.
 
 # Deployed Link:
 
-
-https://sauravsaran99.github.io/lakmeindia/
+https://lakme-india.netlify.app/
 
  
 # Snapshots

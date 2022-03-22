@@ -36,7 +36,7 @@ https://lakme-india.netlify.app/
 
 ## Instructions to Run the Code 
 
-- Clone my repository `https://github.com/sauravsaran99/lakmeindia.git`
+- Clone my repository `https://github.com/Manjunath-BV23/LakmeIndia_Clone.git`
 - Open that code in your VS code `index.html`
 - Open the `index.html` on Live server
 - Then you can Navigate through other pages from Landing page like `signin.html`, `cart.html`, `product.html` etc.
